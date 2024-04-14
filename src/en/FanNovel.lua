@@ -88,7 +88,7 @@ local GENRES = {
     "Other",
 }
 
-return Require("ReadWN")("https://www.fannovel.com", {
+return Require("ReadWN")("https://www.fannovels.com", {
     id = 1308639969,
     name = "FanNovel",
     shrinkURLNovel = "^.-fannovels%.com",
